@@ -19,3 +19,5 @@ let g:ale_fixers = {
 \   'javascript': ['prettier'],
 \   'css': ['prettier'],
 \}
+let g:ale_sign_column_always = 1
+let g:ale_set_balloons = 1
